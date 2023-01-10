@@ -9,3 +9,10 @@ Here is a project I did to learn about dimensionality reduction!
 
 1. [Juypter Notebook demonstrating the code](./PCA/PCA.ipynb)
 2. [Underlying code](./PCA/PCA.py)
+
+## Linear Regression
+Here is an implementation of a linear regression. I did this project to understand the math behind regressions!
+
+![linear regression](./linear_regression/regression.jpg)
+1. [Juypter Notebook demonstrating the code](./linear_regression/linear_regression.ipynb)
+2. [Underlying code](./linear_regression/linear_regression.py)
