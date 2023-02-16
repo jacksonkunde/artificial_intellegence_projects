@@ -1,5 +1,7 @@
 # Artificial Intellegence
 
+*This is not a complete repository, I am slowly uploading all of the projects I have done over the years to this page!*
+
 Hi! I wanted to share a few AI projects that I have done over the last few years. The projects range from demensionality reduction to deep learning. Enjoy!
 
 ## Principal Component Analysis
